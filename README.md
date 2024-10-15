@@ -1,4 +1,4 @@
-# User Management Application
+# Admin Portal
 ### Demo: https://adminportal3.vercel.app/
 ## Getting Started
 Follow the steps below to set up the project on your local machine.
